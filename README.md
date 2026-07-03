@@ -223,3 +223,9 @@ ENCS3330 - Digital Integrated Circuits
 ## License
 
 This repository is intended for academic use as part of a Digital Integrated Circuits course project. If reused, please cite the team and the reference paper listed above.
+
+---
+
+## Future Work
+
+Future improvements may include evaluating the proposed SRAM PUF under different operating conditions such as temperature and supply voltage variations, as well as implementing larger PUF arrays to further study scalability and reliability.
